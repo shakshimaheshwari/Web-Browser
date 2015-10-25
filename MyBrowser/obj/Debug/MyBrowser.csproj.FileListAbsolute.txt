@@ -1,0 +1,10 @@
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe.config
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.Form1.resources
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.csproj.GenerateResource.Cache
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\bin\Release\MyBrowser.exe.config
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.exe
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\bin\Debug\MyBrowser.pdb
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.Properties.Resources.resources
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.exe
+C:\Users\Sakshi\Documents\Visual Studio 2012\Projects\MyBrowser\MyBrowser\obj\Debug\MyBrowser.pdb
